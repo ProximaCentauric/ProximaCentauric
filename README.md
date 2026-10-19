@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 👀 I'm interested in programming, gaming, space, and AI/ML.
 
@@ -15,8 +15,8 @@
 
 # 🌐 Connect with me
 
-- 💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/matthewllandon))
-- 🎥 [YouTube]([YOUR_YOUTUBE_URL](https://www.youtube.com/@ProximaCentauriC))
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthewllandon)
+- 🎥 [YouTube](https://www.youtube.com/@ProximaCentauriC)
 
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
