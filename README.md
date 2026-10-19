@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+👀 I'm interested in programming, gaming, space, and AI/ML.
+🌱 I'm currently pursuing a Master's in Artificial Intelligence and Machine Learning.
+💻 I enjoy building projects involving space science and data visualization.
+🎮 I also create gaming-related content and work on creative projects.
+🚀 I'm always looking to learn new things and experiment with new ideas!
+📫 Feel free to explore my repositories and check out what I'm working on!
+
+
+# 🌐 Connect with me
+
+- 💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/matthewllandon))
+- 🎥 [YouTube]([YOUR_YOUTUBE_URL](https://www.youtube.com/@ProximaCentauriC))
+
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
