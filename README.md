@@ -18,6 +18,12 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthewllandon)
 - 🎥 [YouTube](https://www.youtube.com/@ProximaCentauriC)
 
+#Personal/Fun Projects
+
+#Professional Projects
+
+#School Projects
+
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
