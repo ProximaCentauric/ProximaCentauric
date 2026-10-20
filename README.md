@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 - 👀 I'm interested in programming, gaming, space, and AI/ML.
 
