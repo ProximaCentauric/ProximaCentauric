@@ -20,14 +20,16 @@
 
 # Personal/Fun Projects
 
-[If Mimas Was a Pixel](https://github.com/ProximaCentauric/IfMimasWasAPixel)
+- [If Mimas Was a Pixel](https://github.com/ProximaCentauric/IfMimasWasAPixel)
 
 # Professional Projects
 
-[Nixacom Automated Freight Quoting Software Based on Updating Gov Data](https://github.com/ProximaCentauric/nixacom-rfq-freight-quoting)
-[Nixacom RFQ Bidding Pipeline Based on SAM.gov](https://github.com/ProximaCentauric/nixacom-rfq-test-bidding)
+- [Nixacom Automated Freight Quoting Software Based on Updating Gov Data](https://github.com/ProximaCentauric/nixacom-rfq-freight-quoting)
+- [Nixacom RFQ Bidding Pipeline Based on SAM.gov](https://github.com/ProximaCentauric/nixacom-rfq-test-bidding)
 
 # School Projects
+
+- [Predicting Exoplanet Habitability via Supervised Machine Learning](https://github.com/ProximaCentauric/MachineLearningExoplanets)
 
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
