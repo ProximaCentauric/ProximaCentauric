@@ -13,10 +13,12 @@
 - 📫 Feel free to explore my repositories and check out what I'm working on!
 
 
-# 🌐 Connect with me
+## 🌐 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthewllandon)
 - 🎥 [YouTube](https://www.youtube.com/@ProximaCentauriC)
+
+## Projects
 
 ### Personal/Fun Projects
 
