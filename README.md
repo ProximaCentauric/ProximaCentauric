@@ -18,11 +18,16 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthewllandon)
 - 🎥 [YouTube](https://www.youtube.com/@ProximaCentauriC)
 
-#Personal/Fun Projects
+# Personal/Fun Projects
 
-#Professional Projects
+[If Mimas Was a Pixel](https://github.com/ProximaCentauric/IfMimasWasAPixel)
 
-#School Projects
+# Professional Projects
+
+[Nixacom Automated Freight Quoting Software Based on Updating Gov Data](https://github.com/ProximaCentauric/nixacom-rfq-freight-quoting)
+[Nixacom RFQ Bidding Pipeline Based on SAM.gov](https://github.com/ProximaCentauric/nixacom-rfq-test-bidding)
+
+# School Projects
 
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
