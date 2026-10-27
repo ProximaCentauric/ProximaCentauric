@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👀 I'm interested in programming, gaming, space, and AI/ML.
+- 👀 I'm interested in astronomy, programming, writing, and classical music.
 
 - 🌱 I'm currently pursuing a Master's in Artificial Intelligence and Machine Learning.
 
