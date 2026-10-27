@@ -33,6 +33,7 @@
 
 - [Predicting Exoplanet Habitability via Supervised Machine Learning](https://github.com/ProximaCentauric/MachineLearningExoplanets)
 - [Mars Autonomous Navigation System](https://github.com/ProximaCentauric/MarsAutonomousNavigation)
+- [Predicting and Classifying Solar Flares Based on Transformer-Based Framework](https://github.com/ProximaCentauric/SolarFlareNetPrediction)
 
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
