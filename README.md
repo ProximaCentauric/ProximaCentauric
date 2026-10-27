@@ -32,6 +32,7 @@
 ### School Projects
 
 - [Predicting Exoplanet Habitability via Supervised Machine Learning](https://github.com/ProximaCentauric/MachineLearningExoplanets)
+- [Mars Autonomous Navigation System](https://github.com/ProximaCentauric/MarsAutonomousNavigation)
 
 <!--
 **ProximaCentauric/ProximaCentauric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
