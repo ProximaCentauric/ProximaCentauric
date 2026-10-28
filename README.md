@@ -28,6 +28,7 @@
 
 - [Nixacom Automated Freight Quoting Software Based on Updating Gov Data](https://github.com/ProximaCentauric/nixacom-rfq-freight-quoting)
 - [Nixacom RFQ Bidding Pipeline Based on SAM.gov](https://github.com/ProximaCentauric/nixacom-rfq-test-bidding)
+- [Planetary Networks (PIE Lab)](https://github.com/ProximaCentauric/PIE/tree/main/Planetary%20Networks)
 
 ### School Projects
 
