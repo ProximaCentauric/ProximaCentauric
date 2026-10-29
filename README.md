@@ -15,7 +15,8 @@
 
 ## 🌐 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthewllandon)
+- 💼 [Portfolio Site](https://proximacentauric.github.io)
+- 📝 [LinkedIn](https://www.linkedin.com/in/matthewllandon)
 - 🎥 [YouTube](https://www.youtube.com/@ProximaCentauriC)
 
 ## Projects
